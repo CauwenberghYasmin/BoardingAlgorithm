@@ -9,4 +9,5 @@ Passengers will naturally prefer going to the closest metrodoor they can find.
 
 This system is implemented by using blended and priority steering. This project took a lot of inspiration out of the flocking algorithme.
 
+Assignemnt: week2 - combinedSteering
 Source: https://www.sciencedirect.com/science/article/abs/pii/S0886779823003826
